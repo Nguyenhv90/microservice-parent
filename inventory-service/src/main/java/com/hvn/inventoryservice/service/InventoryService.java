@@ -1,5 +1,6 @@
 package com.hvn.inventoryservice.service;
 
+import brave.Tracer;
 import com.hvn.inventoryservice.dto.InventoryResponse;
 import com.hvn.inventoryservice.repository.InventoryRepository;
 import lombok.RequiredArgsConstructor;
