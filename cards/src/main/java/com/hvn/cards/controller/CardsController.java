@@ -3,7 +3,7 @@ package com.hvn.cards.controller;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
-import com.hvn.cards.CardServiceConfig;
+import com.hvn.cards.config.CardServiceConfig;
 import com.hvn.cards.model.Cards;
 import com.hvn.cards.model.Customer;
 import com.hvn.cards.model.Properties;

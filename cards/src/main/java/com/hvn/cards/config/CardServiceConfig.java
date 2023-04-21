@@ -1,4 +1,4 @@
-package com.hvn.cards;
+package com.hvn.cards.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
