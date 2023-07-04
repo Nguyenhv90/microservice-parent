@@ -8,7 +8,6 @@ import com.hvn.accounts.model.*;
 import com.hvn.accounts.repository.AccountRepository;
 import com.hvn.accounts.service.client.CardsFeignClient;
 import com.hvn.accounts.service.client.LoansFeignClient;
-import feign.Feign;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
